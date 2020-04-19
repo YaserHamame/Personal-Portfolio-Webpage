@@ -1,0 +1,16 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A Pen created on CodePen.io. Original URL: [https://codepen.io/YaserHamame/pen/NWGrVGz](https://codepen.io/YaserHamame/pen/NWGrVGz).",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/YaserHamame/Personal-Portfolio-Webpage",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
